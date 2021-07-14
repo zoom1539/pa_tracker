@@ -19,7 +19,7 @@ int main()
 	std::string reid_engine_path = "../lib/extra/reid/lib/sbs_R50-ibn.engine";
 	pa_tracker.init(detector_engine_path, reid_engine_path);
 
-#if 1
+#if 0
 	for (int i = 0; i < 205; i++)
 	{
 		std::stringstream ss;
