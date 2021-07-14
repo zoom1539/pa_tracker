@@ -6,3 +6,4 @@ lib/extra/tracker/lib/libtracker.so
 lib/extra/reid/lib/libFastRTEngine.so.0
 lib/extra/reid/lib/libreid.so
 lib/extra/reid/lib/sbs_R50-ibn.engine
+data/test.avi
